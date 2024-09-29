@@ -10,7 +10,7 @@
 <div align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F7F7F7&title_bg=%232D2D2D&icon=github.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false"/></a>
 </div>
-________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <image src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
