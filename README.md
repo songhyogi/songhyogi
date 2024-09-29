@@ -39,9 +39,9 @@ ________________________________________________________________________________
     <br>
     <h3 align="center">🌱 Develop 🌱</h3>
 <div align="center">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhyogi&layout=compact">
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhyogi&show_icons=true&layout=compact">
 </div>
-
+<!--<image src="https://github-readme-stats.vercel.app/api?username=songhyogi&show_icons=true&theme=radical">-->
 
 
 
