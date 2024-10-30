@@ -35,6 +35,9 @@ ________________________________________________________________________________
   <image src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
   <image src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
   <image src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white">
+  <br>
+  <image src="https://img.shields.io/badge/linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
+  <image src="https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white">
 </div>
     <br>
     <h3 align="center">🌱 Develop 🌱</h3>
