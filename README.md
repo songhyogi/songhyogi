@@ -65,36 +65,6 @@ ________________________________________________________________________________
 
 </div>
 
-<!--
-<div align="center">
-  <image src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
-  <image src="https://img.shields.io/badge/php-777BB4.svg?style=flat&logo=php&logoColor=white">
-  <image src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white">
-  <image src="https://img.shields.io/badge/json-000000.svg?style=flat&logo=json&logoColor=white">
-  <image src="https://img.shields.io/badge/ASP-512BD4.svg?style=flat&logo=dotnet&logoColor=white">
-  <br>
-  <image src="https://img.shields.io/badge/jquery-0769AD.svg?style=flat&logo=jquery&logoColor=white">
-  <image src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-  <image src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-  <image src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white">
-  <image src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white">
-  <br>
-  <image src="https://img.shields.io/badge/spring-6DB33F.svg?style=flat&logo=spring&logoColor=white">
-  <image src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flat&logo=springboot&logoColor=white">
-  <br>
-  <image src="https://img.shields.io/badge/Oracle%20SQL/PLSQL-%23DD0031.svg?style=flat&logo=oracle&logoColor=white">
-  <image src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"> 
-  <image src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
-  <br>
-  <image src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white">
-  <image src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
-  <image src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
-  <image src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white">
-  <br>
-  <image src="https://img.shields.io/badge/linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
-  <image src="https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white">
-</div>
--->
 <br>
 <h3 align="center">🌱 Develop 🌱</h3>
 <div align="center">
