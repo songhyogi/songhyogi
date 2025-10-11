@@ -4,12 +4,16 @@
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient">-->
 </div>
 
+<!--
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gamja+Flower&pause=1000&color=28292A&width=435&lines=Hello+World!+Meet+Hyo+Gi😄" alt="Typing SVG" /></a>
 </div>
+-->
+<!--
 <div align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/songhyogi%2Fgjbae1212%2Fhit-counter&count_bg=%23CDCDCD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HI&edge_flat=false"/></a>
 </div>
+-->
 _________________________________________________________________________________________________________________________________________________
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
