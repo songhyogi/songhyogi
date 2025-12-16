@@ -23,16 +23,6 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white" />
-  </p>
-
-  <!-- 🌐 Frontend -->
-  <p>
-    <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white" />
   </p>
 
   <!-- 🔧 Backend -->
@@ -45,15 +35,12 @@ ________________________________________________________________________________
   <!-- 🗄️ Databases -->
   <p>
     <img src="https://img.shields.io/badge/Oracle%20SQL/PLSQL-%23DD0031.svg?style=flat&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
   </p>
 
   <!-- ⚙️ Tools -->
   <p>
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/Subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white" />
   </p>
 
